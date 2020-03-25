@@ -12,8 +12,3 @@ console.log(whatsColor);
 
 /* 4. PRINT RESULTS IN HTML */
 document.getElementById('name').innerHTML = whatsName + whatsSurname + whatsColor + 20;
-
-/*    OTHER:
-
-      https://codepen.io/francescoscarniglia/pen/VwLVZBj
- */
