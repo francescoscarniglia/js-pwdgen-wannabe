@@ -28,3 +28,18 @@ h2 {
 h3 {
   color: #888;
 }
+
+
+#name {
+  opacity: 0;
+  animation: parse 1s infinite;
+}
+
+@keyframes parse {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+}
