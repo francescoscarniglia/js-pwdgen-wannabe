@@ -10,5 +10,21 @@ body {
 #app {
   background: #fff;
   width: 1170px;
-  margin:0 auto;
+  margin: 20px auto;
+  padding: 40px 20px;
+}
+
+h2,
+h3
+{
+  text-align: center;
+  line-height: 1,4em;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #888;
 }
