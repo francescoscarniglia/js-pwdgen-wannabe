@@ -4,5 +4,11 @@
 }
 
 body {
-  background: red;
+  background: #d6d6d6;
+}
+
+#app {
+  background: #fff;
+  width: 1170px;
+  margin:0 auto;
 }
