@@ -1,13 +1,13 @@
 /* 1. NAME FROM THE USER */
-var whatsName = prompt('what is your name?');
+var whatsName = prompt('Qual\'è il tuo nome?');
 console.log(whatsName);
 
 /* 2.SURNAME FROM THE USER */
-var whatsSurname = prompt('what is your surname?');
+var whatsSurname = prompt('Qual\'è il tuo cognome?');
 console.log(whatsSurname);
 
 /* 3.FAVOURITE COLOR FROM THE USER */
-var whatsColor = prompt('what is your favourite color?')
+var whatsColor = prompt('Qual\'è il tuo colore preferito')
 console.log(whatsColor);
 
 /* 4. PRINT RESULTS IN HTML */
